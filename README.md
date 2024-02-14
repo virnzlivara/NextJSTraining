@@ -13,8 +13,10 @@ Exercise 2:  07-adding-a-custom-component-to-layout
     3. Replace Link Text from "Meals" to "Browse Meals" and "Community to "Foodies Community"
 
 Exercise 3: 
-    1. 08-styling-css-modules
+    1. Style main-header and logo using css modules
     2. Replace <img with <Image and add priority
+    3. Create a new folder main-header under the components folder
+    3. Move the div with "header-background" into a new component and name it main-header-background.js and style to main-header-background.module.js
 
 
 
