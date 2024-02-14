@@ -1,4 +1,6 @@
 # NextJSTraining
 This is a hands on training for NextJS Fundamentals
 
-Test
+Task:
+1. Populate Startup page
+
