@@ -12,7 +12,9 @@ Exercise 2:  07-adding-a-custom-component-to-layout
     2. Remove the Share link from the home
     3. Replace Link Text from "Meals" to "Browse Meals" and "Community to "Foodies Community"
 
-Exercise 3: 08-styling-css-modules
+Exercise 3: 
+    1. 08-styling-css-modules
+    2. Replace <img with <Image and add priority
 
 
 
