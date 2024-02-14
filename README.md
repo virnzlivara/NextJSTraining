@@ -7,6 +7,12 @@ Exercise 1:
         - Community
     2. Create dynamic page inside meal page
 
-Exercise 2: Adding custom component to layout
+Exercise 2:  07-adding-a-custom-component-to-layout
+    1. Adding custom component to layout
+    2. Remove the Share link from the home
+    3. Replace Link Text from "Meals" to "Browse Meals" and "Community to "Foodies Community"
+
+Exercise 3: 08-styling-css-modules
+
 
 
