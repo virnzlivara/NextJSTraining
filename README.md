@@ -9,5 +9,5 @@ Activity:
 4. Add Meals Grid and Meal Item 14-outputting-meals-data-images-with-unknown-dimensions
 5. Install sqlite and run node initdb.js
 6. Fetch Meal Data
-7. Rename loading.js to loading-out.js because not going to use this
+7. Rename loading.js to loading-out.js because not going to use this and use suspense
 8.
