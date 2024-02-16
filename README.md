@@ -10,4 +10,6 @@ Activity:
 5. Install sqlite and run node initdb.js
 6. Fetch Meal Data
 7. Rename loading.js to loading-out.js because not going to use this and use suspense
-8.
+8. 18-handling-errors
+9. 19-handling-not-found
+
