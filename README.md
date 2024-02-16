@@ -12,4 +12,6 @@ Activity:
 7. Rename loading.js to loading-out.js because not going to use this and use suspense
 8. 18-handling-errors
 9. 19-handling-not-found
+10. Updating the meal details
+11. Retrieve meal details from db
 
