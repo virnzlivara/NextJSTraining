@@ -8,3 +8,4 @@ Activity:
 3. Add Meals Page (13-using-client-cmp-efficiently)
 4. Add Meals Grid and Meal Item 14-outputting-meals-data-images-with-unknown-dimensions
 5. Install sqlite
+6. Fetch Meal Data
